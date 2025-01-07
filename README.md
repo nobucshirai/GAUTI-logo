@@ -2,7 +2,9 @@
 
 ## 概要  
 
-このリポジトリは、**GAUTI** (Generative AI Utilization Testing Initiative; 日本語名は「生成AI活用検証イニシアティブ」) のロゴおよびマスコットキャラクター「**ゴチ**」の画像を公開するためのものです。ロゴとキャラクター画像は、CC BY 4.0ライセンスを適用して公開しています。
+- このリポジトリは、**GAUTI** のロゴおよびマスコットキャラクター「**ゴチ**」の画像を公開するためのものです。ロゴとキャラクター画像は、CC BY 4.0ライセンスを適用して公開しています。
+  -  "GAUTI" は Generative AI Utilization Testing Initiative の略称。日本語名は「生成AI活用検証イニシアティブ」。
+  -  "GAUTI" はChatGPTに提案してもらった名前から付けた。プロンプト・出力は [生成AI活用部会名称案](https://gist.github.com/nobucshirai/5f80a5b75eae963985001e2577bf3672) で公開している。
 
 ---
 
