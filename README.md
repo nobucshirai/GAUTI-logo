@@ -1,26 +1,32 @@
 # GAUTIのロゴとマスコットキャラクター「ゴチ」の画像公開用リポジトリ
 
 ## 概要  
-このリポジトリは、**GAUTI**のロゴおよびマスコットキャラクター「**ゴチ**」の画像を公開するためのものです。ロゴとキャラクター画像は、CC BY 4.0ライセンスを適用して公開しています。
+
+このリポジトリは、**GAUTI** (Generative AI Utilization Testing Initiative; 日本語名は「生成AI活用検証イニシアティブ」) のロゴおよびマスコットキャラクター「**ゴチ**」の画像を公開するためのものです。ロゴとキャラクター画像は、CC BY 4.0ライセンスを適用して公開しています。
 
 ---
 
 ## 公開されているファイル
 
 - **GAUTI_logo.pdf**  
-  GAUTIの公式ロゴ画像です。
+  - GAUTIの公式ロゴ画像
+  - <img src="./png_files/GAUTI_logo.png" width="200">
 
 - **gochi_blue.pdf**  
-  マスコットキャラクター「ゴチ」の青色バージョンの画像です。
+  - マスコットキャラクター「ゴチ」の青色バージョンの画像
+  - <img src="./png_files/gochi_blue.png" width="200">
 
 - **gochi_pink.pdf**  
-  マスコットキャラクター「ゴチ」のピンク色バージョンの画像です。
+  - マスコットキャラクター「ゴチ」のピンク色バージョンの画像
+  - <img src="./png_files/gochi_pink.png" width="200">
 
 - **gochi_yellow.pdf**  
-  マスコットキャラクター「ゴチ」の黄色バージョンの画像です。
+  - マスコットキャラクター「ゴチ」の黄色バージョンの画像
+  - <img src="./png_files/gochi_yellow.png" width="200">
 
 - **gochi_white.pdf**  
-  マスコットキャラクター「ゴチ」の白色バージョンの画像です。
+  - マスコットキャラクター「ゴチ」の白色バージョンの画像
+  - <img src="./png_files/gochi_white.png" width="200">
 
 ---
 
